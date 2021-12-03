@@ -1,5 +1,11 @@
 # ih-81m-4170-efi
+
 联想m4500准系统 4170 efi
+
 主板为联想ih 81m，CPU为i3-4170，显卡为核显HD4400，网卡为bcm943302cs。
-已驱动：网卡，CPU，核显。
-未驱动：HDMI屏幕
+
+已驱动：网卡，CPU，核显，蓝牙，WiFi，usb，dp输出
+
+未驱动：HDMI外接屏幕
+
+attention：主板上仅有11pin usb接口，使用pcie网卡的蓝牙模块需使用11pin转9pin转接线
