@@ -6,6 +6,8 @@
 
 已驱动：网卡，CPU，核显，蓝牙，WiFi，usb，dp输出
 
-未驱动：HDMI外接屏幕
+未驱动：dp转dp外接屏幕
 
 attention：主板上仅有11pin usb接口，使用pcie网卡的蓝牙模块需使用11pin转9pin转接线
+
+ps，已做兼容性测试，理论上所有四代平台，不限主办型号皆可以使用本efi
